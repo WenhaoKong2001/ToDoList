@@ -1,5 +1,5 @@
 # ToDoList
 My personnal todo list.
 
-- [] test
+- [ ] test
 - [x] test2
